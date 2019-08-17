@@ -1,0 +1,26 @@
+body {
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+ }
+  .form {
+  display: flex;
+  justify-content : center;
+  align-items : center;
+}
+.searchbox{
+  width : 50%;
+  margin-top: 1%;
+}
+.recipies {
+  display : flex;
+  justify-content: space-around;
+  flex-wrap : wrap;
+}
+.submit {
+  border-radius : 10%;
+  width : 60px;
+  margin-top: 1.2%;
+}
+.title {
+  top : 2%;
+  position : static;
+}
